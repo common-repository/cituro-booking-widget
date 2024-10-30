@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "cituro.page.name"
+msgstr "cituro Buchungswidget"
+
+msgid "menuoverview"
+msgstr "Einstellungen › cituro Buchungswidget"
+
+msgid "admin.notice.text"
+msgstr "Um dieses Plugin zu nutzen benötigen Sie ein cituro Abonnement."
+
+msgid "settings.error.invalid.customernumber"
+msgstr "Ungültige Kundennummer."
+
+msgid "section.general.header"
+msgstr "Allgemein"
+
+msgid "section.general.info"
+msgstr "Das offizielle # Wordpress-Plugin erlaubt es Ihnen, ihr individuelles cituro-Buchungswidget auf Ihrer Seite erscheinen zu lassen."
+
+msgid "section.general.description"
+msgstr "Das Design ihres Buchungsbuttons können Sie im # einrichten im Menü unter <code>Onlinebuchung › Design & Vorschau › Buchungsbutton - Allgemeine Einstellungen.</code>"
+
+msgid "section.general.customer.number"
+msgstr "Kundennummer:"
+
+msgid "section.general.customer.error"
+msgstr "Geben Sie erst eine gültige Kundennummer ein und speichern die Änderungen."
+
+msgid "section.general.customer.description"
+msgstr "Ihre cituro-Kundennummer. Diese finden Sie im # im Menü unter <code>Vertrag › Ihre Daten.</code>"
+
+msgid "section.customize.header"
+msgstr "Buchungswidget anpassen"
+
+msgid "section.customize.info"
+msgstr "Hier können Sie das Buchungswidget an Ihre Bedürfnisse anpassen und vorbelegte Parameter hinzufügen (optional)."
+
+msgid "section.customize.description"
+msgstr "So startet das Buchungswidget beispielsweise mit vorbelegter Leistung oder Standort."
+
+msgid "section.customize.preset.service.label"
+msgstr "Vorbelegte Leistung"
+
+msgid "section.customize.preset.service.description"
+msgstr "Service-ID der Leistung, die vorausgewählt sein soll."
+
+msgid "section.customize.preset.service.tooltip"
+msgstr "Kopieren Sie die Service-ID aus den Details der gewünschten Einzel- oder Gruppenleistung."
+
+msgid "section.customize.preset.category.label"
+msgstr "Vorbelegte Kategorien"
+
+msgid "section.customize.preset.category.description"
+msgstr "Kategorie-ID der Servicekategorien, die vorausgewählt sein soll."
+
+msgid "section.customize.preset.category.tooltip"
+msgstr "Kopieren Sie die Kategorie-IDs aus den Details der Kategorien in Einzelleistungen/Gruppenleistungen. Eine oder mehrere durch Komma getrennt."
+
+msgid "section.customize.preset.resource.label"
+msgstr "Vorbelegte Ressource/Mitarbeiter"
+
+msgid "section.customize.preset.resource.description"
+msgstr "Ressourcen-ID der Ressource/Mitarbeiter-ID des Mitarbeiters, die vorausgewählt sein soll."
+
+msgid "section.customize.preset.resource.tooltip"
+msgstr "Kopieren Sie die Mitarbeiter-ID/Ressourcen-ID aus den Mitarbeiter- bzw. Ressourcendetails."
+
+msgid "section.customize.preset.location.label"
+msgstr "Vorbelegter Standort"
+
+msgid "section.customize.preset.location.description"
+msgstr "Standort-ID des Standorts, der vorausgewählt sein soll."
+
+msgid "section.customize.preset.location.tooltip"
+msgstr "Kopieren Sie die Standort-ID aus den Standortdetails."
+
+msgid "section.advanced.header"
+msgstr "Erweitert"
+
+msgid "section.advanced.info"
+msgstr "Hier haben Sie die Möglichkeit das cituro-Buchungswidget über Ihr eigenes Skript einzubinden. So können Sie  das Buchungswidget noch detaillierter anpassen (optional)."
+
+msgid "section.advanced.checkbox.title"
+msgstr "Expertenmodus"
+
+msgid "section.advanced.checkbox.text"
+msgstr "Benutzerdefiniertes Skript verwenden"
+
+msgid "section.advanced.customscript"
+msgstr "Benutzerdefiniertes Skript:"
+
+msgid "section.advanced.customscript.description"
+msgstr ""

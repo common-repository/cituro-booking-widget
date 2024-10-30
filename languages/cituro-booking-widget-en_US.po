@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "cituro.page.name"
+msgstr "cituro Booking Widget"
+
+msgid "menuoverview"
+msgstr "Settings › cituro Booking Widget"
+
+msgid "section.general.header"
+msgstr "General"
+
+msgid "section.general.info"
+msgstr "The official # WordPress plugin allows you to easily integrate your individual cituro booking widget into your site."
+
+msgid "section.general.customer.error"
+msgstr "First enter a valid customer number and save changes."
+
+msgid "section.general.description"
+msgstr "You can configure the design of your booking button in the # under <code>Online Booking › Design & Preview › Button - General Settings.</code>"
+
+msgid "section.general.customer.number"
+msgstr "Customer Number:"
+
+msgid "section.general.customer.description"
+msgstr "Your cituro customer number. You can find it in the # under <code>Contract › Your Data</Code>"
+
+msgid "section.customize.header"
+msgstr "Customize Booking Widget"
+
+msgid "section.customize.info"
+msgstr "Here you can customize the booking widget to your needs and add pre-filled parameters (optional)."
+
+msgid "section.customize.description"
+msgstr "For example, the booking widget will start with a preselected service or location."
+
+msgid "section.customize.preset.service.label"
+msgstr "Preselected Service"
+
+msgid "section.customize.preset.service.description"
+msgstr "Service id of the service to be preselected."
+
+msgid "section.customize.preset.service.tooltip"
+msgstr "Copy the service id from the service details."
+
+msgid "section.customize.preset.category.label"
+msgstr "Preselected Categories"
+
+msgid "section.customize.preset.category.description"
+msgstr "Category  ids of the service categories to be preselected."
+
+msgid "section.customize.preset.category.tooltip"
+msgstr "Copy the category ids from the category details (services/group services). One or more separated by a comma."
+
+msgid "section.customize.preset.resource.label"
+msgstr "Preselected Resource/Employee"
+
+msgid "section.customize.preset.resource.description"
+msgstr "Resource id of the resource/Employee id of the employee to be preselected."
+
+msgid "section.customize.preset.resource.tooltip"
+msgstr "Copy the employee/resource id from the employee/resource details."
+
+msgid "section.customize.preset.location.label"
+msgstr "Preselected Location"
+
+msgid "section.customize.preset.location.description"
+msgstr "Location id of the location to be preselected."
+
+msgid "section.customize.preset.location.tooltip"
+msgstr "Copy the Location id from the location details."
+
+msgid "section.advanced.header"
+msgstr "Advanced"
+
+msgid "section.advanced.info"
+msgstr "Here you have the option to integrate the cituro booking widget using your own script. This gives you the ability to customize the booking widget in more detail (optional)."
+
+msgid "section.advanced.checkbox.title"
+msgstr "Expert Mode"
+
+msgid "section.advanced.checkbox.text"
+msgstr "Use Custom Script"
+
+msgid "section.advanced.customscript"
+msgstr "Custom Script:"
+
+msgid "admin.notice.text"
+msgstr "In order to use this plugin you need a cituro subscription!"
+
+msgid "settings.error.invalid.customernumber"
+msgstr "Invalid customer number."
